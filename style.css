@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+    width: fit-content;
+    margin: 10px;
+    padding: 10px;
+}
+
+p {
+    margin: 10px;
+    padding: 10px;
+}
+
+div {
+    margin-left: 15px;
+}
+
+#result{
+    color: red;
+    width:fit-content
+}
